@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include admin_persian *
+recursive-exclude * *.pyc __pycache__ .DS_Store

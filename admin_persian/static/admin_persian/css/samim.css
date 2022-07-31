@@ -1,0 +1,13 @@
+@font-face {
+    font-family: samim;
+    src: url("../fonts/samim/Samim.eot") format('eot');
+    src: url("../fonts/samim/Samim.ttf") format('ttf');
+    src: url("../fonts/samim/Samim.woff") format('woff');
+    src: url("../fonts/samim/Samim.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    font-family: samim;
+}

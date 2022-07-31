@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: parastoo;
+    src: url("../fonts/parastoo/Parastoo.eot") format('eot');
+    src: url("../fonts/parastoo/Parastoo.ttf") format('ttf');
+    src: url("../fonts/parastoo/Parastoo.woff") format('woff');
+    src: url("../fonts/parastoo/Parastoo.woff2") format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    font-family: parastoo;
+}
