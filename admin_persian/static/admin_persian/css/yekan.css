@@ -7,6 +7,9 @@
     font-style: normal;
 }
 
-* {
+body,
+button,
+input,
+textarea {
     font-family: yekan;
 }
